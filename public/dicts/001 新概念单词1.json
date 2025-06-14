@@ -1,22 +1,8 @@
 [
-  { 
-    "name": "excuse", 
-    "trans": [
-      "n. 借口；理由；辩解；(正当的) 理由"
-    ] 
+  { "name": "excuse", "trans": ["n. 借口；理由；辩解；(正当的) 理由"] },
+  { "name": "me","trans": ["pron. 我"] 
   },
-  { 
-    "name": "me",
-    "trans": [
-      "pron. 我"
-    ] 
-  },
-  { 
-    "name": "yes",
-    "trans": [
-      "adv. (回答问话、招呼等) 是，(怀疑或促人往下讲) 真的吗"
-    ] 
-  },
+  { "name": "yes","trans": ["adv. (回答问话、招呼等) 是，(怀疑或促人往下讲) 真的吗"] },
   { "name": "is", "trans": ["v. 是"] },
   { "name": "this", "trans": ["adv. 这个，本，这样，这么"] },
   { "name": "your", "trans": ["pron. 你的，您的，你们的，(泛指) 大家的"] },
