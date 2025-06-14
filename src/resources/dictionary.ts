@@ -5,7 +5,7 @@ import { calcChapterCount } from '@/utils'
 const chinaExam: DictionaryResource[] = [
   {
     id: 'wyf-1',
-    name: '新概念单词 01',
+    name: '我的单词 01',
     description: '大学英语',
     category: '中国考试',
     tags: ['自定义词库'],
